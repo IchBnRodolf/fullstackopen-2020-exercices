@@ -1,0 +1,7 @@
+browser -> server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa 
+server -> browser : {content: "hello good people", date: "2020-03-06T15:37:35.841Z"}
+note over browser:
+browser execute js code which post content in the server and then request content from the server without using a redirect and gain time
+end note
+
+
